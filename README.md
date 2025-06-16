@@ -1,2 +1,2 @@
 # CI-CD-pipeline-
-implementing CI/CD pipeline 
+A simple jenkins pipeline 
